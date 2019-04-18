@@ -1,3 +1,5 @@
+SPOJ
+
 PRIME_T - Prime Numbers
 Check which numbers are prime.
 
